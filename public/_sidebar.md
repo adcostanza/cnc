@@ -9,6 +9,8 @@
 <h3>Calibration/Tooling</h3>
 
 - [Tramming](/setup/tramming.md)
+- [Inlay](/setup/inlay.md)
+- [Feeds and Speeds](/setup/feeds-and-speeds.md)
 
 <h3>Projects</h3>
 
